@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd4650d9f259b0546a56470eac4fad55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ThrowingObject: {fileID: 2790235748706201593, guid: 7ac181db955c598499b640e1d43031c7,
+      type: 3}
+  - TargetLObject: {instanceID: 0}
+  - TargetCeObject: {instanceID: 0}
+  - TargetRObject: {instanceID: 0}
+  - BossTargetObject: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - LeftLock: {instanceID: 0}
+  - CenterLock: {instanceID: 0}
+  - RightLock: {instanceID: 0}
+  - BossHPGauge: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
